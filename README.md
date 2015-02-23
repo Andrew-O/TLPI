@@ -1,2 +1,2 @@
 # TLPI
-My first Git repository
+My first GitHub repository
